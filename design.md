@@ -1,7 +1,6 @@
 # LoMA — Retro-Skeuomorphic Visual Design Language
 
 > **Warm surfaces · Tactile controls · Editorial clarity**
-> *(有温度的界面，可感知的材质，可理解的秩序。)*
 
 | Document Property | Details |
 | --- | --- |
@@ -665,4 +664,3 @@ Components should prioritize semantic HTML (`<button>`, `<a>`, `<input>`, `<nav>
 The essence of LoMA is not "making modern web pages look old," but restoring tangible materiality, crisp boundaries, clear hierarchy, and satisfying tactile feedback to digital interfaces. It carries information on paper, builds structure with deep slate-blue, and signals action in amber—uniting consistent lighting, restrained gradients, compact editorial typography, and disciplined detail to lend digital products physical order and human warmth.
 
 > **LoMA: design with the warmth of paper and the precision of an instrument.**
-> *(以纸张的温度、器物的精确，设计数字界面。)*
